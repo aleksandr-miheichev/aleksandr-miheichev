@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miheichev Aleksandr.</h1>
-<h3 align="center">Aspiring Python backend developer.</h3>
+<h1 align="center">Hi 👋, I'm Miheichev Aleksandr!</h1>
+<h3 align="center">Aspiring Python backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on **improving my technical skills and creating projects that demonstrate my knowledge of Python, Django, FastAPI, and Flask.**
