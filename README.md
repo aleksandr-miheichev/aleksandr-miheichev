@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Miheichev Aleksandr.</h1>
 <h3 align="center">Aspiring Python backend developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandr-miheichev&label=aleksandr-miheichev&color=0e75b6&style=plastic" alt="aleksandr-miheichev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandr-miheichev" alt="aleksandr-miheichev" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on **improving my technical skills and creating projects that demonstrate my knowledge of Python, Django, FastAPI, and Flask.**
 
-- 🌱 I’m currently **studying Eric Matthes' "Python Crash Course" and preparing to delve into Aditya Bhargava's "Grokking Algorithms".**
+- 🌱 I'm currently studying **Eric Mathis' "Python Short Course" and preparing to learn Aditya Bhargava's "Grokking Algorithms".**
 
 - 👯 I’m looking to collaborate on **projects that can utilize my engineering background and acquired knowledge of backend development.**
 
 - 🤝 I’m looking for help **diving deeper into backend development in Python using technologies like Django, FastAPI, Flask, and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aleksandr-miheichev?tab=repositories](https://github.com/aleksandr-miheichev?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/aleksandr-miheichev?tab=repositories).
 
 - 💬 Ask me about **my transition from nuclear power to software development.**
 
