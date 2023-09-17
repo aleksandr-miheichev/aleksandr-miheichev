@@ -1,4 +1,4 @@
-name: Compact display
+name: Compact display and Waka Readme
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -19,3 +19,10 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
