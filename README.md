@@ -60,3 +60,8 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<h3 align="left">My Contributions:</h3>
+<a href="https://github.com/Platane/snk">
+  <img align="center" src="https://raw.githubusercontent.com/aleksandr-miheichev/aleksandr-miheichev/output/github-contribution-grid-snake.svg" />
+</a>
