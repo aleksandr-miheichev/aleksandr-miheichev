@@ -67,4 +67,6 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 </a>
 
 <h3 align="left">Recent Activity:</h3>
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
