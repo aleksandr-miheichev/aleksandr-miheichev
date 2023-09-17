@@ -65,7 +65,7 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 <a href="https://github.com/Platane/snk">
   <img align="center" src="https://raw.githubusercontent.com/aleksandr-miheichev/aleksandr-miheichev/output/github-contribution-grid-snake.svg" />
 </a>
-<!--START_SECTION:activity-->
 
 <h3 align="left">Recent Activity:</h3>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
