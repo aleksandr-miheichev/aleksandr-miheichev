@@ -50,3 +50,6 @@
 <a href="https://github.com/lowlighter/metrics">
   <img height=200 align="center" src="/metrics.plugin.achievements.compact.svg" alt="Metrics" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
