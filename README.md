@@ -52,4 +52,10 @@
 </a>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python     3 mins          ████████████████████████▓   99.00 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+```
+
 <!--END_SECTION:waka-->
