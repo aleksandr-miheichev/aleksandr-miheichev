@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Miheichev Aleksandr!</h1>
-<h3 align="center">Aspiring Python backend developer</h3>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=33&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Miheichev+Aleksandr!" alt="Typing SVG" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Aspiring Python backend developer" alt="Typing SVG" />
+    </a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on **improving my technical skills and creating projects that demonstrate my knowledge of Python, Django, FastAPI, and Flask.**
