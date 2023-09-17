@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats-aleksandr-miheichev.vercel.app/?user=aleksandr-miheichev&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-streak-stats-aleksandr-miheichev.vercel.app/?user=aleksandr-miheichev&card_width=370" />
 </a>
 <a href="https://github.com/lowlighter/metrics">
   <img height=200 align="center" src="/metrics.plugin.achievements.compact.svg" alt="Metrics" />
