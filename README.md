@@ -1,3 +1,7 @@
+<a href="https://github.com/lowlighter/metrics">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Aleksandr Miheichev's Banner" />
+</a>
+
 <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Miheichev+Aleksandr!" alt="Animated text saying: 'Hi, I'm Miheichev Aleksandr'" />
