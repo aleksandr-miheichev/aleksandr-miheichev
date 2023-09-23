@@ -1,8 +1,10 @@
 name: Update README
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 jobs:
   build:
     name: Update this repo's README with recent activity
