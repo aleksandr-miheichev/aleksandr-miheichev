@@ -166,6 +166,15 @@
 </a>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   5 hrs 8 mins    ████████████████▒░░░░░░░░   65.70 %
+YAML       1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+Python     1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+SVG        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">My Contributions:</h3>
