@@ -23,17 +23,120 @@
 - 🤝 Seeking help to delve deeper into backend development especially with Python, Django, FastAPI, Flask and more.
 - 👨‍💻 All my projects are available at [my repositories](https://github.com/aleksandr-miheichev?tab=repositories).
 - 💬 Feel free to ask about my transition from nuclear power to software development.
-- 📫 Reach me at: [aleksandr.miheichev.prof@gmail.com](mailto:aleksandr.miheichev.prof@gmail.com)
 - ⚡ Fun fact: I love building computers and participating in bike rides when I'm not coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aleksandr-miheichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleksandr Miheichev's LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://instagram.com/aleksandr_miheichev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aleksandr Miheichev's Instagram Profile" height="30" width="40" /></a>
+  <a href="https://t.me/aleksandr_miheichev" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Alexander Miheichev's Telegram" /> 
+  </a>  
+  <a href="mailto:aleksandr.miheichev.prof@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Alexander Miheichev's Gmail Mail" />
+  </a>
+  <a href="https://linkedin.com/in/aleksandr-miheichev" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="Alexander Miheichev's LinkedIn Profile" />
+  </a>
+  <a href="https://instagram.com/aleksandr_miheichev" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="Alexander Miheichev's Instagram Profile" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td valign="top" width="20%">
+        <h4 align="center">Backend</h4>  
+        <div align="center">  
+            <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" /> 
+            </a> 
+            <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/django" alt="Django" />
+            </a>  
+            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" />
+            </a>
+            <a href="https://flask.palletsprojects.com/en/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/flask" alt="Flask" />
+            </a>  
+            <a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" />
+            </a>  
+            <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
+            </a> 
+            <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="Beautiful Soup" />
+            </a> 
+            <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" />
+            </a> 
+        </div>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">DevOps & Deployment</h4>  
+        <div align="center">  
+            <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" /> 
+            </a> 
+            <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" /> 
+            </a> 
+            <a href="https://github.com/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="GitHub" /> 
+            </a>
+            <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" /> 
+            </a>
+            <a href="https://nginx.org/en/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="Nginx" /> 
+            </a>
+            <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" /> 
+            </a>
+            <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://s461vla.storage.yandex.net/rdisk/89a1e644b074cf0662d0dc11975f6f55839b09d6dd26a5899bebbceb59fe5fa6/65122c6a/7-VqxA4GBCtgR9mzrT05hRG5VuCpX-xh35VKDk56tsd1fXqd6LbQPVlFJ_ab9UwFDumRiruwSMxSzZSdjyJ9cA==?uid=0&filename=icon_duo_circ.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=2989&hid=5d4df2421305577883b5398c587ed34a&media_type=image&tknv=v2&etag=0e9ab398b2f537b2daa25261f2eb1a8d&rtoken=xht2uvW89DuI&force_default=no&ycrid=na-7b6b583f9b9641cca6e3c916f306eca0-downloader10f&ts=606388e346e80&s=eab41b29be22d0b962dd7f68d3778c90a14b14ee58659ea4c7628c2a6d6b4055&pb=U2FsdGVkX19lHFirNEjTj7ayhPuPNJd_T48MCGpMpVq53m6C4mXIJst-v61o4egVXH2WtEfauwpAx_xJvEyf3TB89iBLL17Lnb3yMpcALVY" alt="Yandex Cloud" /> 
+            </a>
+            <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" /> 
+            </a>
+        </div>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">Databases</h4>  
+        <div align="center">  
+            <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" /> 
+            </a> 
+        </div>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">Frontend</h4> 
+        <div align="center">  
+            <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML5" /> 
+            </a> 
+            <a href="https://www.w3.org/TR/css-2023/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS3" />
+            </a>  
+            <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
+            </a>  
+        </div>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">APIs & Integration</h4>  
+        <div align="center">  
+            <a href="https://core.telegram.org/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Telegram API" /> 
+            </a> 
+            <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud API" /> 
+            </a> 
+        </div>
+    </td>
+  </tr>
+</table>  
 
 <h3 align="left">Stats:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -51,13 +154,6 @@
 </a>
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown   2 hrs 27 mins   █████████████████▒░░░░░░░   69.11 %
-Python     1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   30.89 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <h3 align="left">My Contributions:</h3>
