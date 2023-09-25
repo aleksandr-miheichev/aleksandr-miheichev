@@ -45,7 +45,23 @@
 <table>
   <tr>
     <td valign="top" width="20%">
-        <h4 align="center">Backend</h4>  
+        <h4 align="center">Backend</h4>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">Devops & Deployment</h4>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">Databases</h4>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">Frontend</h4>
+    </td>
+    <td valign="top" width="20%">
+        <h4 align="center">APIs & Integration</h4>
+    </td>
+  </tr>
+  <tr>  
+    <td valign="top" width="20%"> 
         <div align="center">  
             <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" /> 
@@ -73,8 +89,7 @@
             </a> 
         </div>
     </td>
-    <td valign="top" width="20%">
-        <h4 align="center">DevOps & Deployment</h4>  
+    <td valign="top" width="20%"> 
         <div align="center">  
             <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" /> 
@@ -102,16 +117,14 @@
             </a>
         </div>
     </td>
-    <td valign="top" width="20%">
-        <h4 align="center">Databases</h4>  
+    <td valign="top" width="20%"> 
         <div align="center">  
             <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" /> 
             </a> 
         </div>
     </td>
-    <td valign="top" width="20%">
-        <h4 align="center">Frontend</h4> 
+    <td valign="top" width="20%"> 
         <div align="center">  
             <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML5" /> 
@@ -124,8 +137,7 @@
             </a>  
         </div>
     </td>
-    <td valign="top" width="20%">
-        <h4 align="center">APIs & Integration</h4>  
+    <td valign="top" width="20%"> 
         <div align="center">  
             <a href="https://core.telegram.org/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Telegram API" /> 
@@ -136,7 +148,7 @@
         </div>
     </td>
   </tr>
-</table>  
+</table>
 
 <h3 align="left">Stats:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
