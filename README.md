@@ -112,7 +112,7 @@
                 <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" /> 
             </a>
             <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://s461vla.storage.yandex.net/rdisk/89a1e644b074cf0662d0dc11975f6f55839b09d6dd26a5899bebbceb59fe5fa6/65122c6a/7-VqxA4GBCtgR9mzrT05hRG5VuCpX-xh35VKDk56tsd1fXqd6LbQPVlFJ_ab9UwFDumRiruwSMxSzZSdjyJ9cA==?uid=0&filename=icon_duo_circ.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=2989&hid=5d4df2421305577883b5398c587ed34a&media_type=image&tknv=v2&etag=0e9ab398b2f537b2daa25261f2eb1a8d&rtoken=xht2uvW89DuI&force_default=no&ycrid=na-7b6b583f9b9641cca6e3c916f306eca0-downloader10f&ts=606388e346e80&s=eab41b29be22d0b962dd7f68d3778c90a14b14ee58659ea4c7628c2a6d6b4055&pb=U2FsdGVkX19lHFirNEjTj7ayhPuPNJd_T48MCGpMpVq53m6C4mXIJst-v61o4egVXH2WtEfauwpAx_xJvEyf3TB89iBLL17Lnb3yMpcALVY" alt="Yandex Cloud" /> 
+                <img height="32" width="32" src="/icon_duo_circ.svg" alt="Yandex Cloud" /> 
             </a>
             <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" /> 
