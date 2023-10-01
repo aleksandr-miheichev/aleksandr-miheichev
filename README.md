@@ -187,3 +187,5 @@ YAML        3 mins          ░░░░░░░░░░░░░░░░░�
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/aleksandr-miheichev/hw_python_oop/issues/1) in [aleksandr-miheichev/hw_python_oop](https://github.com/aleksandr-miheichev/hw_python_oop)
+<!--END_SECTION:activity-->
