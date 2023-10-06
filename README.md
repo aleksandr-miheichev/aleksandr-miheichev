@@ -28,6 +28,7 @@
 - ⚡ Fun fact: I love building computers and participating in bike rides when I'm not coding!
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://t.me/aleksandr_miheichev" target="_blank" rel="noopener noreferrer"> 
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Alexander Miheichev's Telegram" /> 
@@ -44,6 +45,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <table>
   <tr>
     <td valign="top" width="20%">
@@ -153,6 +155,7 @@
 </table>
 
 <h3 align="left">Stats:</h3>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-aleksandr-miheichev.vercel.app/api?username=aleksandr-miheichev" alt="Aleksandr Miheichev's GitHub Readme Stats" />
 </a>
@@ -180,6 +183,7 @@ HTML               13 mins         ▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <h3 align="left">My Contributions:</h3>
+
 <a href="https://github.com/Platane/snk">
   <img align="center" src="https://raw.githubusercontent.com/aleksandr-miheichev/aleksandr-miheichev/output/github-contribution-grid-snake.svg" alt="Aleksandr Miheichev's GitHub Contributions" />
 </a>
@@ -187,5 +191,14 @@ HTML               13 mins         ▒░░░░░░░░░░░░░░
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/aleksandr-miheichev/hw05_final/issues/1) in [aleksandr-miheichev/hw05_final](https://github.com/aleksandr-miheichev/hw05_final)
 <!--END_SECTION:activity-->
+
+<h3 align="left">GitHub Extra Pins:</h3>
+
+<a href="https://github.com/aleksandr-miheichev/cat_fundraiser">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=cat_fundraiser" alt="Aleksandr Miheichev's CatFundraiser repository" />
+</a>
+<a href="https://github.com/aleksandr-miheichev/link_shorty">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=link_shorty" alt="Aleksandr Miheichev's LinkShorty repository" />
+</a>
+
