@@ -84,7 +84,10 @@
             </a>  
             <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
-            </a> 
+            </a>
+            <a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer"> 
+                <img height="32" width="32" src="/scrapylogo.png" alt="Scrapy" /> 
+            </a>
             <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="Beautiful Soup" />
             </a> 
@@ -198,9 +201,8 @@ INI                20 mins         ▒░░░░░░░░░░░░░░
 <h3 align="left">GitHub Extra Pins:</h3>
 
 <a href="https://github.com/aleksandr-miheichev/cat_fundraiser">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=cat_fundraiser" alt="Aleksandr Miheichev's CatFundraiser repository" />
+  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=cat_fundraiser" alt="Aleksandr Miheichev's CatFundraiser repository" />
 </a>
 <a href="https://github.com/aleksandr-miheichev/link_shorty">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=link_shorty" alt="Aleksandr Miheichev's LinkShorty repository" />
+  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=link_shorty" alt="Aleksandr Miheichev's LinkShorty repository" />
 </a>
-
