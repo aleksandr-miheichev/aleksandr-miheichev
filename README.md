@@ -117,7 +117,7 @@
                 <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" /> 
             </a>
             <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="/icon_duo_circ.svg" alt="Yandex Cloud" /> 
+                <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud" alt="Yandex Cloud" /> 
             </a>
             <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer"> 
                 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" /> 
