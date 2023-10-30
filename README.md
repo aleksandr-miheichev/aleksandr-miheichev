@@ -80,7 +80,7 @@
                 <img height="32" width="32" src="https://cdn.simpleicons.org/flask" alt="Flask" />
             </a>  
             <a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" />
+                <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" />
             </a>  
             <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
