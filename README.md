@@ -176,8 +176,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 min           ███████████████████████▓░   95.03 %
-HTTP Request   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
