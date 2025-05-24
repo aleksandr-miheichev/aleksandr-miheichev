@@ -11,7 +11,7 @@
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Aspiring Python backend developer" 
+      <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Python+backend+developer" 
            alt="Animated text: 'Aspiring Python backend developer'" />
     </a>
 </h3>
@@ -37,7 +37,7 @@
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Alexander Miheichev's Gmail Mail" />
   </a>
   <a href="https://linkedin.com/in/aleksandr-miheichev" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="Alexander Miheichev's LinkedIn Profile" />
+    <img align="center" height="32" width="32" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Alexander Miheichev's LinkedIn Profile" />
   </a>
   <a href="https://instagram.com/aleksandr_miheichev" target="_blank" rel="noopener noreferrer">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="Alexander Miheichev's Instagram Profile" />
