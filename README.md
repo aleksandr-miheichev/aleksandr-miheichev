@@ -190,7 +190,7 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/aleksandr-miheichev/hw05_final/issues/1) in [aleksandr-miheichev/hw05_final](https://github.com/aleksandr-miheichev/hw05_final)
+1. 💪 Opened PR [#7342](https://github.com/2dust/v2rayN/pull/7342) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 2. 🔒 Closed issue [#1](https://github.com/aleksandr-miheichev/hw_python_oop/issues/1) in [aleksandr-miheichev/hw_python_oop](https://github.com/aleksandr-miheichev/hw_python_oop)
 <!--END_SECTION:activity-->
 
