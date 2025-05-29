@@ -176,7 +176,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text       2 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.77 %
+XAML       1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   35.84 %
+C#         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+textmate   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
