@@ -169,9 +169,6 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="200" align="center" src="https://github-readme-streak-stats-aleksandr-miheichev.vercel.app/?user=aleksandr-miheichev&card_width=370" alt="Aleksandr Miheichev's GitHub Streak Stats" />
 </a>
-<a href="https://github.com/lowlighter/metrics">
-  <img height=200 align="center" src="/metrics.plugin.achievements.compact.svg" alt="Aleksandr Miheichev's Github Metrics" />
-</a>
 
 <!--START_SECTION:waka-->
 
