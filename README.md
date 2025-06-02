@@ -197,8 +197,8 @@ C#               15 mins         █▒░░░░░░░░░░░░░�
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7342](https://github.com/2dust/v2rayN/pull/7342) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 🔒 Closed issue [#1](https://github.com/aleksandr-miheichev/hw_python_oop/issues/1) in [aleksandr-miheichev/hw_python_oop](https://github.com/aleksandr-miheichev/hw_python_oop)
+1. ❗ Opened issue [#7377](https://github.com/2dust/v2rayN/issues/7377) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 💪 Opened PR [#7376](https://github.com/2dust/v2rayN/pull/7376) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
