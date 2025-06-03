@@ -194,8 +194,8 @@ textmate         28 mins         █▒░░░░░░░░░░░░░�
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7377](https://github.com/2dust/v2rayN/issues/7377) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 💪 Opened PR [#7376](https://github.com/2dust/v2rayN/pull/7376) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+1. 🗣 Commented on [#7377](https://github.com/2dust/v2rayN/issues/7377#issuecomment-2928922241) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. ❗ Opened issue [#7377](https://github.com/2dust/v2rayN/issues/7377) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
