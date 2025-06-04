@@ -1,5 +1,5 @@
 <a href="https://github.com/lowlighter/metrics">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Github Metrics Banner" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Github beautiful picture" />
 </a>
 
 <h1 align="center">
