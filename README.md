@@ -4,14 +4,14 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Miheichev+Aleksandr!" 
+      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Miheichev+Aleksandr!"
            alt="Animated text: 'Hi, I'm Miheichev Aleksandr'" />
     </a>
 </h1>
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Python+backend+developer" 
+      <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Python+backend+developer"
            alt="Animated text: 'Aspiring Python backend developer'" />
     </a>
 </h3>
@@ -30,9 +30,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://t.me/aleksandr_miheichev" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Alexander Miheichev's Telegram" /> 
-  </a>  
+  <a href="https://t.me/aleksandr_miheichev" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Alexander Miheichev's Telegram" />
+  </a>
   <a href="mailto:aleksandr.miheichev.prof@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Alexander Miheichev's Gmail Mail" />
   </a>
@@ -64,24 +64,24 @@
         <h4 align="center">APIs & Integration</h4>
     </td>
   </tr>
-  <tr>  
-    <td valign="top" width="20%"> 
-        <div align="center">  
-            <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" /> 
-            </a> 
+  <tr>
+    <td valign="top" width="20%">
+        <div align="center">
+            <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" />
+            </a>
             <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/django" alt="Django" />
-            </a>  
+            </a>
             <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" />
             </a>
             <a href="https://flask.palletsprojects.com/en/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/flask" alt="Flask" />
-            </a>  
+            </a>
             <a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" />
-            </a>  
+            </a>
             <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
             </a>
@@ -90,68 +90,68 @@
             </a>
             <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="Beautiful Soup" />
-            </a> 
+            </a>
             <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" />
-            </a> 
-        </div>
-    </td>
-    <td valign="top" width="20%"> 
-        <div align="center">  
-            <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" /> 
-            </a> 
-            <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" /> 
-            </a> 
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="GitHub" /> 
-            </a>
-            <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" /> 
-            </a>
-            <a href="https://nginx.org/en/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="Nginx" /> 
-            </a>
-            <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" /> 
-            </a>
-            <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud" alt="Yandex Cloud" /> 
-            </a>
-            <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" /> 
             </a>
         </div>
     </td>
-    <td valign="top" width="20%"> 
-        <div align="center">  
-            <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" /> 
-            </a> 
+    <td valign="top" width="20%">
+        <div align="center">
+            <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" />
+            </a>
+            <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" />
+            </a>
+            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="GitHub" />
+            </a>
+            <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" />
+            </a>
+            <a href="https://nginx.org/en/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="Nginx" />
+            </a>
+            <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" />
+            </a>
+            <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud" alt="Yandex Cloud" />
+            </a>
+            <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" />
+            </a>
         </div>
     </td>
-    <td valign="top" width="20%"> 
-        <div align="center">  
-            <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML5" /> 
-            </a> 
+    <td valign="top" width="20%">
+        <div align="center">
+            <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" />
+            </a>
+        </div>
+    </td>
+    <td valign="top" width="20%">
+        <div align="center">
+            <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML5" />
+            </a>
             <a href="https://www.w3.org/TR/css-2023/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS3" />
-            </a>  
+            </a>
             <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
-            </a>  
+            </a>
         </div>
     </td>
-    <td valign="top" width="20%"> 
-        <div align="center">  
-            <a href="https://core.telegram.org/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Telegram API" /> 
-            </a> 
-            <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud API" /> 
-            </a> 
+    <td valign="top" width="20%">
+        <div align="center">
+            <a href="https://core.telegram.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Telegram API" />
+            </a>
+            <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud API" />
+            </a>
         </div>
     </td>
   </tr>
