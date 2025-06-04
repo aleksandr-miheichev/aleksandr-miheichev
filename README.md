@@ -85,8 +85,8 @@
             <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
             </a>
-            <a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer"> 
-                <img height="32" width="32" src="/scrapylogo.png" alt="Scrapy" /> 
+            <a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer">
+                <img height="32" width="32" src="./scrapylogo.png" alt="Scrapy" />
             </a>
             <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer">
                 <img height="32" width="32" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="Beautiful Soup" />
