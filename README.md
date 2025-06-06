@@ -194,8 +194,8 @@ YAML             8 mins          ▓░░░░░░░░░░░░░░�
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7377](https://github.com/2dust/v2rayN/issues/7377#issuecomment-2928922241) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. ❗ Opened issue [#7377](https://github.com/2dust/v2rayN/issues/7377) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+1. 🎉 Merged PR [#4](https://github.com/aleksandr-miheichev/aleksandr-miheichev/pull/4) in [aleksandr-miheichev/aleksandr-miheichev](https://github.com/aleksandr-miheichev/aleksandr-miheichev)
+2. 💪 Opened PR [#4](https://github.com/aleksandr-miheichev/aleksandr-miheichev/pull/4) in [aleksandr-miheichev/aleksandr-miheichev](https://github.com/aleksandr-miheichev/aleksandr-miheichev)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
