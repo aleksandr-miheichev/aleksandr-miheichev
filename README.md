@@ -173,11 +173,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML                       1 hr 34 mins    █████████░░░░░░░░░░░░░░░░   36.32 %
-Other                      1 hr 22 mins    ████████░░░░░░░░░░░░░░░░░   31.91 %
-Nginx configuration file   50 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-TOML                       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Text                       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other                      1 hr 22 mins    █████████▒░░░░░░░░░░░░░░░   37.27 %
+HTML                       1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+Nginx configuration file   50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
+Text                       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Nginx Configuration        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
