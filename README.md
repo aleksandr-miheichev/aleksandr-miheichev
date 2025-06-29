@@ -194,8 +194,8 @@ Nginx Configuration        5 mins          ▓░░░░░░░░░░░�
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/aleksandr-miheichev/aleksandr-miheichev/pull/4) in [aleksandr-miheichev/aleksandr-miheichev](https://github.com/aleksandr-miheichev/aleksandr-miheichev)
-2. 💪 Opened PR [#4](https://github.com/aleksandr-miheichev/aleksandr-miheichev/pull/4) in [aleksandr-miheichev/aleksandr-miheichev](https://github.com/aleksandr-miheichev/aleksandr-miheichev)
+1. 🎉 Merged PR [#1](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg/pull/1) in [aleksandr-miheichev/speedtest-Saint-Petersburg](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg)
+2. 💪 Opened PR [#1](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg/pull/1) in [aleksandr-miheichev/speedtest-Saint-Petersburg](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
