@@ -173,11 +173,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                       4 hrs 41 mins   ████████████▒░░░░░░░░░░░░   48.75 %
-Other                      1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-HTML                       1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Shell Script               54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Nginx configuration file   50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Bash                  4 hrs 41 mins   ███████████████████░░░░░░   75.75 %
+Shell Script          54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Markdown              23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+HTML                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Nginx Configuration   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
