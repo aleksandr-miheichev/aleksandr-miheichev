@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg/pull/1) in [aleksandr-miheichev/speedtest-Saint-Petersburg](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg)
-2. 💪 Opened PR [#1](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg/pull/1) in [aleksandr-miheichev/speedtest-Saint-Petersburg](https://github.com/aleksandr-miheichev/speedtest-Saint-Petersburg)
+1. 🗣 Commented on [#7648](https://github.com/2dust/v2rayN/issues/7648#issuecomment-3121458882) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. ❗ Opened issue [#7648](https://github.com/2dust/v2rayN/issues/7648) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
