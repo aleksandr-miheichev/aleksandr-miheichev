@@ -173,7 +173,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown       7 mins          ███████████████████▒░░░░░   76.67 %
+Bash           2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
