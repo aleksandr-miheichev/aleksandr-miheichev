@@ -173,11 +173,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   1 hr 40 mins    ███████████████████▓░░░░░   78.50 %
-Shell Script               13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-Nginx Configuration        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Bash                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Nginx configuration file   4 hrs 29 mins   ███████████████░░░░░░░░░░   60.01 %
+HTML                       2 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Nginx Configuration        32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Shell Script               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JavaScript                 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
