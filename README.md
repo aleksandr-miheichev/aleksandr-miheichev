@@ -173,8 +173,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   0 secs          ███████████████████████▒░   93.11 %
-TOML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
