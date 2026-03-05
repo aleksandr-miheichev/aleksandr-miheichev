@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8886](https://github.com/2dust/v2rayN/issues/8886) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. ❗ Opened issue [#8886](https://github.com/2dust/v2rayN/issues/8886) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+1. 🔒 Closed issue [#8886](https://github.com/2dust/v2rayN/issues/8886) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 🗣 Commented on [#8886](https://github.com/2dust/v2rayN/issues/8886#issuecomment-3998049545) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
