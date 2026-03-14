@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8886](https://github.com/2dust/v2rayN/issues/8886) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 🗣 Commented on [#8886](https://github.com/2dust/v2rayN/issues/8886#issuecomment-3998049545) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+1. 💪 Opened PR [#8931](https://github.com/2dust/v2rayN/pull/8931) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 🎉 Merged PR [#2](https://github.com/aleksandr-miheichev/v2rayN/pull/2) in [aleksandr-miheichev/v2rayN](https://github.com/aleksandr-miheichev/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
