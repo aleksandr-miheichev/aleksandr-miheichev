@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6248](https://github.com/2dust/v2rayNG/pull/6248) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-2. 💪 Opened PR [#6247](https://github.com/2dust/v2rayNG/pull/6247) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🎉 Merged PR [#6248](https://github.com/2dust/v2rayNG/pull/6248) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+2. 💪 Opened PR [#6248](https://github.com/2dust/v2rayNG/pull/6248) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
