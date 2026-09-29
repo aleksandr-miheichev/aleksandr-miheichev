@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10247](https://github.com/2dust/v2rayN/pull/10247) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 💪 Opened PR [#6276](https://github.com/2dust/v2rayNG/pull/6276) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🗣 Commented on [#10249](https://github.com/2dust/v2rayN/pull/10249#issuecomment-5876153978) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 🗣 Commented on [#10247](https://github.com/2dust/v2rayN/pull/10247#issuecomment-5876152054) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
