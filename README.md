@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10276](https://github.com/2dust/v2rayN/pull/10276) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 💪 Opened PR [#6282](https://github.com/2dust/v2rayNG/pull/6282) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🗣 Commented on [#166](https://github.com/reactiveui/ReactiveUI.Binding.SourceGenerators/issues/166#issuecomment-5976224665) in [reactiveui/ReactiveUI.Binding.SourceGenerators](https://github.com/reactiveui/ReactiveUI.Binding.SourceGenerators)
+2. 🎉 Merged PR [#10291](https://github.com/2dust/v2rayN/pull/10291) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
