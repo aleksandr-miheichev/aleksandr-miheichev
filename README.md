@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6301](https://github.com/2dust/v2rayNG/pull/6301) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-2. 💪 Opened PR [#6301](https://github.com/2dust/v2rayNG/pull/6301) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🗣 Commented on [#27](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/27#issuecomment-6171760589) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
+2. 🗣 Commented on [#28](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/28#issuecomment-6171759275) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
