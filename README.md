@@ -190,8 +190,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/27#issuecomment-6171760589) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
-2. 🗣 Commented on [#28](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/28#issuecomment-6171759275) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
+1. 💪 Opened PR [#10382](https://github.com/2dust/v2rayN/pull/10382) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 🗣 Commented on [#27](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/27#issuecomment-6171760589) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
