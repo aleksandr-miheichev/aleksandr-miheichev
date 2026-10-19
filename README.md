@@ -21,9 +21,11 @@ I've also used [Scrapy to collect PEP data](https://github.com/aleksandr-miheich
 I spend free time contributing fixes, tests, and bug investigations to open source:
 
 - [heiher/lwip — merged TCP fix](https://github.com/heiher/lwip/pull/11): fixed GSO-related TCP download stalls after the receiver reduced its receive window. Credited in the [hev-socks5-tunnel 2.19.1 release](https://github.com/heiher/hev-socks5-tunnel/releases/tag/2.19.1).
-- [v2rayN — merged UI fix](https://github.com/2dust/v2rayN/pull/10292): made clipped labels readable and added tooltips for input hints in WPF and Avalonia.
-- [v2rayNG — merged test fix](https://github.com/2dust/v2rayNG/pull/6282): corrected the timing of a flaky process-runner test while preserving its elapsed-time check.
+- [v2rayN — merged share-URI parsing fix](https://github.com/2dust/v2rayN/pull/10027): prevented double decoding and loss of query parameters when importing share links, with regression tests.
+- [v2rayNG — merged Coil 3 migration](https://github.com/2dust/v2rayNG/pull/6248): migrated app-icon loading from Coil 2 to Coil 3 and adapted the image fetcher to the new API.
 - [ReactiveUI.Binding.SourceGenerators — performance investigation](https://github.com/reactiveui/ReactiveUI.Binding.SourceGenerators/issues/166): reported a build slowdown, supplied measurements, and followed up with checks of the upstream fix.
+
+[All pull requests](https://github.com/search?q=is%3Apr+author%3Aaleksandr-miheichev&type=pullrequests) · [Open](https://github.com/search?q=is%3Apr+author%3Aaleksandr-miheichev+is%3Aopen&type=pullrequests) · [Merged](https://github.com/search?q=is%3Apr+author%3Aaleksandr-miheichev+is%3Amerged&type=pullrequests)
 
 These links document the changes, investigation, and validation. Through this work, I'm learning to investigate failures, make focused changes, and explain what was checked.
 
