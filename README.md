@@ -1,161 +1,44 @@
-<a href="https://github.com/lowlighter/metrics">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Github beautiful picture" />
-</a>
+# Aleksandr Miheichev
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4999&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Miheichev+Aleksandr!"
-           alt="Animated text: 'Hi, I'm Miheichev Aleksandr'" />
-    </a>
-</h1>
+**Python backend training · Open-source contributor · Engineering physics**
 
-<h3 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Python+backend+developer"
-           alt="Animated text: 'Aspiring Python backend developer'" />
-    </a>
-</h3>
+I'm working toward a career in software development after completing the Python Developer Plus professional retraining program at Yandex Practicum (620 hours, July 2023). I have a degree in engineering physics and currently work as an engineer in the reactor department of a nuclear power plant.
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Animated Python snake gif" >
+Programming draws me in because the field keeps challenging its own limits: setting new records, making discoveries, and finding better ways to solve problems. I want to contribute to that progress and keep learning as the field advances.
 
-- 🔭 Currently working on improving my technical skills and creating projects to demonstrate my knowledge of Python, Django, FastAPI, and Flask.
-- 🌱 Studying Eric Mathis' "Python Short Course".
-- 📖 Preparing to learn Aditya Bhargava's "Grokking Algorithms".
-- 👯 Eager to collaborate on projects utilizing my engineering background and knowledge of backend development.
-- 🤝 Seeking help to delve deeper into backend development especially with Python, Django, FastAPI, Flask and more.
-- 👨‍💻 All my projects are available at [my repositories](https://github.com/aleksandr-miheichev?tab=repositories).
-- 💬 Feel free to ask about my transition from nuclear power to software development.
-- ⚡ Fun fact: I love building computers and participating in bike rides when I'm not coding!
+## Python backend projects
 
-<h3 align="left">Connect with me:</h3>
+My learning projects put Python backend technologies into practice:
 
-<p align="left">
-  <a href="https://t.me/aleksandr_miheichev" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Alexander Miheichev's Telegram" />
-  </a>
-  <a href="mailto:aleksandr.miheichev.prof@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Alexander Miheichev's Gmail Mail" />
-  </a>
-  <a href="https://linkedin.com/in/aleksandr-miheichev" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="32" width="32" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Alexander Miheichev's LinkedIn Profile" />
-  </a>
-  <a href="https://instagram.com/aleksandr_miheichev" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="Alexander Miheichev's Instagram Profile" />
-  </a>
-</p>
+- [Culinary social platform](https://github.com/aleksandr-miheichev/culinary_social_platform) — a recipe-sharing backend using Django and Django REST Framework, with PostgreSQL, Docker Compose, Gunicorn, Nginx, and GitHub Actions configuration.
+- [CatFundraiser](https://github.com/aleksandr-miheichev/cat_fundraiser) — a donation-management API using FastAPI, asynchronous SQLAlchemy, Pydantic, and Alembic, with Google Sheets reporting.
+- [LinkShorty](https://github.com/aleksandr-miheichev/link_shorty) — a Flask URL shortener with a REST API, SQLAlchemy models, and pytest tests.
 
-<h3 align="left">Languages and Tools:</h3>
+I've also used [Scrapy to collect PEP data](https://github.com/aleksandr-miheichev/pep_analysis) and [the Telegram API in a homework-status bot](https://github.com/aleksandr-miheichev/homework_checker_telegram_bot).
 
-<table>
-  <tr>
-    <td valign="top" width="20%">
-        <h4 align="center">Backend</h4>
-    </td>
-    <td valign="top" width="20%">
-        <h4 align="center">Devops & Deployment</h4>
-    </td>
-    <td valign="top" width="20%">
-        <h4 align="center">Databases</h4>
-    </td>
-    <td valign="top" width="20%">
-        <h4 align="center">Frontend</h4>
-    </td>
-    <td valign="top" width="20%">
-        <h4 align="center">APIs & Integration</h4>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="20%">
-        <div align="center">
-            <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python" />
-            </a>
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/django" alt="Django" />
-            </a>
-            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" />
-            </a>
-            <a href="https://flask.palletsprojects.com/en/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/flask" alt="Flask" />
-            </a>
-            <a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" />
-            </a>
-            <a href="https://gunicorn.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/gunicorn" alt="Gunicorn" />
-            </a>
-            <a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="./scrapylogo.png" alt="Scrapy" />
-            </a>
-            <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="Beautiful Soup" />
-            </a>
-            <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" />
-            </a>
-        </div>
-    </td>
-    <td valign="top" width="20%">
-        <div align="center">
-            <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" />
-            </a>
-            <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" />
-            </a>
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="GitHub" />
-            </a>
-            <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" />
-            </a>
-            <a href="https://nginx.org/en/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" alt="Nginx" />
-            </a>
-            <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" />
-            </a>
-            <a href="https://cloud.yandex.ru/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/yandexcloud" alt="Yandex Cloud" />
-            </a>
-            <a href="https://kernel.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/linux" alt="Linux" />
-            </a>
-        </div>
-    </td>
-    <td valign="top" width="20%">
-        <div align="center">
-            <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" />
-            </a>
-        </div>
-    </td>
-    <td valign="top" width="20%">
-        <div align="center">
-            <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML5" />
-            </a>
-            <a href="https://www.w3.org/TR/css-2023/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS3" />
-            </a>
-            <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
-            </a>
-        </div>
-    </td>
-    <td valign="top" width="20%">
-        <div align="center">
-            <a href="https://core.telegram.org/" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Telegram API" />
-            </a>
-            <a href="https://cloud.google.com/apis/docs/overview" target="_blank" rel="noopener noreferrer">
-                <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud API" />
-            </a>
-        </div>
-    </td>
-  </tr>
-</table>
+## Open-source contributions
+
+I spend free time contributing fixes, tests, and bug investigations to open source:
+
+- [heiher/lwip — merged TCP fix](https://github.com/heiher/lwip/pull/11): fixed GSO-related TCP download stalls after the receiver reduced its receive window. Credited in the [hev-socks5-tunnel 2.19.1 release](https://github.com/heiher/hev-socks5-tunnel/releases/tag/2.19.1).
+- [v2rayN — merged UI fix](https://github.com/2dust/v2rayN/pull/10292): made clipped labels readable and added tooltips for input hints in WPF and Avalonia.
+- [v2rayNG — merged test fix](https://github.com/2dust/v2rayNG/pull/6282): corrected the timing of a flaky process-runner test while preserving its elapsed-time check.
+- [ReactiveUI.Binding.SourceGenerators — performance investigation](https://github.com/reactiveui/ReactiveUI.Binding.SourceGenerators/issues/166): reported a build slowdown, supplied measurements, and followed up with checks of the upstream fix.
+
+These links document the changes, investigation, and validation. Through this work, I'm learning to investigate failures, make focused changes, and explain what was checked.
+
+## Learning and interests
+
+I follow developments in AI, software security, and digital privacy, especially preventing data leaks and protecting people from unwanted surveillance. I want to understand how these technologies evolve and keep my knowledge useful as they do.
+
+## Let's connect
+
+I'm open to software development roles, other opportunities in IT, and open-source collaboration. I'd welcome a conversation about a role or project where I can contribute and keep learning.
+
+[Email](mailto:aleksandr.miheichev.prof@gmail.com) · [LinkedIn](https://linkedin.com/in/aleksandr-miheichev) · [Telegram](https://t.me/aleksandr_miheichev) · [All repositories](https://github.com/aleksandr-miheichev?tab=repositories)
+
+<details>
+<summary>Activity and projects</summary>
 
 <h3 align="left">Stats:</h3>
 
@@ -202,3 +85,5 @@ No activity tracked
 <a href="https://github.com/aleksandr-miheichev/link_shorty">
   <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-miheichev&repo=link_shorty" alt="Aleksandr Miheichev's LinkShorty repository" />
 </a>
+
+</details>
