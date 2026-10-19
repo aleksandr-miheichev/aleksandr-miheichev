@@ -37,7 +37,7 @@ I follow developments in AI, software security, and digital privacy, especially 
 
 I'm open to software development roles, other opportunities in IT, and open-source collaboration. I'd welcome a conversation about a role or project where I can contribute and keep learning.
 
-[Email](mailto:aleksandr.miheichev.prof@gmail.com) · [LinkedIn](https://linkedin.com/in/aleksandr-miheichev) · [Telegram](https://t.me/aleksandr_miheichev) · [All repositories](https://github.com/aleksandr-miheichev?tab=repositories)
+[Email](mailto:alexandr.mikheichev.prof@tuta.com) · [LinkedIn](https://linkedin.com/in/aleksandr-miheichev) · [Telegram](https://t.me/aleksandr_miheichev) · [All repositories](https://github.com/aleksandr-miheichev?tab=repositories)
 
 <details>
 <summary>Activity and projects</summary>
