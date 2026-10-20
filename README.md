@@ -75,8 +75,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/heiher/lwip/pull/11) in [heiher/lwip](https://github.com/heiher/lwip)
-2. 💪 Opened PR [#6328](https://github.com/2dust/v2rayNG/pull/6328) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🗣 Commented on [#6328](https://github.com/2dust/v2rayNG/pull/6328#issuecomment-6270567888) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+2. 🗣 Commented on [#6328](https://github.com/2dust/v2rayNG/pull/6328#issuecomment-6269703318) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
