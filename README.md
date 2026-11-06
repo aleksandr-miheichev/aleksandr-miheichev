@@ -75,8 +75,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10517](https://github.com/2dust/v2rayN/pull/10517#issuecomment-6634579060) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-2. 🎉 Merged PR [#10513](https://github.com/2dust/v2rayN/pull/10513) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+1. 🔒 Closed issue [#42](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/42) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
+2. 🔒 Closed issue [#40](https://github.com/aleksandr-miheichev/v2rayN-oldos/issues/40) in [aleksandr-miheichev/v2rayN-oldos](https://github.com/aleksandr-miheichev/v2rayN-oldos)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
