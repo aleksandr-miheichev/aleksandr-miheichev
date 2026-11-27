@@ -75,8 +75,8 @@ No activity tracked
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6446](https://github.com/2dust/v2rayNG/pull/6446) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-2. 🎉 Merged PR [#6445](https://github.com/2dust/v2rayNG/pull/6445) in [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+1. 🎉 Merged PR [#10669](https://github.com/2dust/v2rayN/pull/10669) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
+2. 🎉 Merged PR [#10683](https://github.com/2dust/v2rayN/pull/10683) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Extra Pins:</h3>
